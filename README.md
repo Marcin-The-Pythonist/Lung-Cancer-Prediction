@@ -13,3 +13,5 @@ The dataset can be found <a href="https://www.kaggle.com/datasets/mysarahmadbhat
   <li>Visualize the distinct effect of each IV on DV and conclude</li>
   <li>Build a classification model to predict whether a patient is at high risk of having lung cancer</li>
 </ul>
+
+# Insights
