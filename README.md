@@ -1,5 +1,6 @@
 # How do different factors affect the risk of lung cancer?
 This research aims to determine how different factors are associated with the risk of lung cancer and build a classification model based on those factors. 
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfP3kxirueVvH6uePuDEXEx6cNv-v9R2TLTA&s">
 # Dataset 
 The data used for the research consists of 15 columns with independent variables and one dependent variable stating whether a subject has lung cancer.
