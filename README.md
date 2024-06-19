@@ -1,4 +1,5 @@
-*Project abandoned due to suspicious data*
+# Project abandoned due to suspicious data
+After further inspection of the data, it turned out that there is no significant difference in terms of lung cancer occurrence between smoking and non-smoking individuals. 
 # How do different factors affect the risk of lung cancer?
 This research aims to determine how different factors are associated with the risk of lung cancer and build a classification model based on those factors. 
 
