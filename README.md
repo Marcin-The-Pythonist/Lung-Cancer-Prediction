@@ -27,4 +27,5 @@ Hence it can be observed that drinking contributes to an increased risk of lung 
 In individuals who do smoke anxiety is more common.<br>
 This is observable in **56.89%** of the cases in smokers and in **40.74%** of the cases in non-smokers.<br>
 It might suggest that dealing with anxiety might lead to increased odds of quitting smoking.<br>
+
 <img src="https://private-user-images.githubusercontent.com/119814659/341066400-7acf7336-e41b-4e7c-9fb5-a1ee7b11fd04.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg3OTkwNTcsIm5iZiI6MTcxODc5ODc1NywicGF0aCI6Ii8xMTk4MTQ2NTkvMzQxMDY2NDAwLTdhY2Y3MzM2LWU0MWItNGU3Yy05ZmI1LWExZWU3YjExZmQwNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxOVQxMjA1NTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kYzA3ZDEyYTE2ZDUwMzYzYTU0MTBkNjM4YzkxZjY3NGZiNGJhZWNkYmRjODBjNTM2N2NmMmQzY2E2ZDFjY2M3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.BVZtXqdNnRfMydaUY2ZTyq6QCePQj_jhGGuSiTFlXlQ">
